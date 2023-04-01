@@ -13,8 +13,8 @@ def get_requirements(file_path):
 setup(
     name = "Mlproject",
     version = "0.0.1",
-    author = "Mayuri",
-    author_email="yantraveda11@gmail.com",
+    author = "Prasad",
+    author_email="pmcivilenng@gmail.com",
     packages=find_packages(),
     install_requires = get_requirements('requirements.txt')
     )
